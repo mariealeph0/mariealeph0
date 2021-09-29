@@ -2,7 +2,7 @@
 - 👀 I’m interested in scientific research
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on the academy
-- 📫 How to reach me ...
+- 📫 How to reach me magalvism@unal.edu.co
 
 <!---
 mariealeph0/mariealeph0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
